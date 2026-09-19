@@ -1,0 +1,7 @@
+H:\paterns\paterns\obj\Debug\paterns.csproj.AssemblyReference.cache
+H:\paterns\paterns\obj\Debug\paterns.csproj.CoreCompileInputs.cache
+H:\paterns\paterns\bin\Debug\paterns.exe.config
+H:\paterns\paterns\bin\Debug\paterns.exe
+H:\paterns\paterns\bin\Debug\paterns.pdb
+H:\paterns\paterns\obj\Debug\paterns.exe
+H:\paterns\paterns\obj\Debug\paterns.pdb

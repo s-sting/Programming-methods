@@ -1,0 +1,3 @@
+*.vs
+paterns/bin/.
+paterns/obj/.
