@@ -1,3 +1,4 @@
 *.vs
 paterns/bin/.
 paterns/obj/.
+paterns.sln
