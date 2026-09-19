@@ -64,6 +64,7 @@
     <Compile Include="generetion\FactoryMethod\PCFactory.cs" />
     <Compile Include="generetion\singlton\classA.cs" />
     <Compile Include="generetion\singlton\ClassB.cs" />
+    <Compile Include="generetion\singlton\ILogger.cs" />
     <Compile Include="generetion\singlton\Logger.cs" />
     <Compile Include="generetion\prototype\ITask.cs" />
     <Compile Include="generetion\prototype\Prototype.cs" />

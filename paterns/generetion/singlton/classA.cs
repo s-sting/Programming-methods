@@ -8,11 +8,12 @@ namespace paterns.generetion
 {
     internal class classA
     {
-        public classA()
+        public ILogger logger { get; set; }
+        public classA(ILogger logger)
          {
-            Logger log = Logger.GetInstance();
-            Logger.GetInstance().Log("ClassA was init");
-            Console.WriteLine(log.GetHashCode());
+            this.logger = logger;
+            logger.Log("ClassA was init");
+            Console.WriteLine(logger.GetHashCode());
         }
     }
 }

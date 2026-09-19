@@ -10,8 +10,8 @@ namespace paterns.generetion
     {
         public static void Run()
         {
-            classA classA = new classA();
-            ClassB classB = new ClassB();
+            classA classA = new classA(Logger.GetInstance());
+            ClassB classB = new ClassB(Logger.GetInstance());
 
         }
     }
